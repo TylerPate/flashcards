@@ -1,0 +1,29 @@
+Sentence; A grammatical unit that conveys a complete thought, that consists of a subject and predicate, either of which may be express or understood, and for which the rules of grammar do not control the order in which it is placed in relation to other units.
+
+Declarative Sentence; A sentence that takes the form of a simple statement (as contrasted with a command, a question, or an exclamation). 
+
+Interrogatory Sentence; A sentence that poses a direct question {how many people live here} {what will this cost me?}
+
+Imperative Sentence; A sentence expressing a command {close the door!}, making a request {please let me know},  or giving directions {check to see that all bolts are tight}. 
+
+Exclamatory Sentence; A sentence that conveys or purports to convey a fairly strong emotion {oh, dear!} {we thought he was a scoundrel!} {what a fine mess you've made of this!}.
+
+Fragment; A group of words that, although written as a sentence, doesn't constitute a grammatically complete sentence {Because we were hungry.} 
+
+Run-on Sentence; A grammatical fault whereby independent clauses are fused together without any proper link such as a conjunction or appropriate punctuation {we need to leave soon we might be late} {I want that book it looks interesting}.
+
+Subject; The noun element that (1) performs the first syntactic function in a sentence and (2) controls the number of the verb. It usually identifies that the thing that brings about the action, state, or condition in the predicate (in the active voice) or receives the action, state, or condition (in the passive voice).
+
+Predicate; The part of a clause that begins with a finite verb; the core part of the clause minus the subject.
+
+Complete Subject; The simple subject of a finite verb along with all its modify elements {<b>huge tomes</b> lined the walls} {<b>the golf course that we played last week</b> was recently redesigned}.
+
+Complete Predicate; The finite verb of a clause with all its modifiers, objects, and associated complements {she <b>called her broker, who was in Venice Beach at the time</b>}.
+
+Simple Subject; The noun element that identifies the person, place, thing, or idea about whom or which a statement is made—that is, the complete subject minus any modifiers {the tennis <b>courts</b> are green}
+
+Simple Predicate; The finite verb of a clause, whether independent or dependent {she <b>called</b> her broker on Friday}.
+
+Compound Subject; Collectively, two or more noun elements that are subjects of the same verb {<b>Sam</b> and <b>Tom</b> arrived together}.
+
+Compound Predicate; Collectively, two or more finite verbs joined by a coordinating conjunction and having the same subject {she <b>relaxed</b> and <b>watched</b> TV}.
